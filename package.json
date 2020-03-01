@@ -1,6 +1,6 @@
 {
-  "name": "@directus/gatsby-source-directus",
-  "version": "0.2.3",
+  "name": "gatsby-source-directus-tegrus",
+  "version": "0.2.6",
   "description": "A Gatsby source plugin to pull content from a Directus CMS backend.",
   "publishConfig": {
     "access": "public"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/directus/gatsby-source.git"
+    "url": "git+https://github.com/IgordeOliveira/gatsby-source.git"
   },
   "keywords": [
     "gatsby",
@@ -31,9 +31,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/directus/gatsby-source/issues"
+    "url": "https://github.com/IgordeOliveira/gatsby-source/issues"
   },
-  "homepage": "https://github.com/directus/gatsby-source#readme",
+  "homepage": "https://github.com/IgordeOliveira/gatsby-source#readme",
   "dependencies": {
     "@directus/sdk-js": "^6.0.2",
     "colors": "^1.4.0",
